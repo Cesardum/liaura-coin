@@ -2,6 +2,10 @@
   <img src="assets/liaura-coin-oficial.png" alt="LiAura Coin (LIA) Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/logo/liaura-logo-256.png" alt="Logo oficial LiAura Coin" width="160">
+</p>
+
 # LiAura Coin (LIA)
 
 Criptomoeda baseada em privacidade (CryptoNote / RingCT / CLSAG / Bulletproofs+ / View Tags), com cronograma unificado `v1..v16` e emissão transparente e auditável.
