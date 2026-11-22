@@ -20,10 +20,11 @@
 | **Mainnet Ports** | P2P `19080` / RPC `19081` / Prefix `0x114` |
 | **Public HTTPS Node** | `https://node.serviupedidos.com.br` |
 
-## Project Status (Implemented vs Planned)
+## Project Status (Controlled Validation — Not Broadly Released)
 
-- **Implemented & Tested:** Unified `v1..v16` hardfork schedule, deterministic A/B builds (`liaurad`, `liaura-wallet-cli`, `liaura-wallet-rpc`), LiAura Wallet Desktop `v1.2.0-https` (`.deb`, SHA-256 `151a26a3b86e697818a698b07f4a1fa2ef94a183930aad74837aff1ed0314ff2`), and controlled Mainnet transfer verification.
-- **Planned Ecosystem (In Development):** **LiAura Motion**, **LiAura Convites**, and **MMORPG Elaris** (no commercial launch dates promised).
+- **Mainnet Status:** Active in **controlled/internal validation** (not yet broadly released for exchange/commercial use; no independent external audit has been performed).
+- **Implemented & Internally Tested:** Unified `v1..v16` hardfork schedule, deterministic A/B builds (`liaurad`, `liaura-wallet-cli`, `liaura-wallet-rpc`), LiAura Wallet Desktop `v1.2.0-https` (`.deb`, SHA-256 `151a26a3b86e697818a698b07f4a1fa2ef94a183930aad74837aff1ed0314ff2`), and controlled Mainnet transfer verification.
+- **Planned Ecosystem (In Development):** **LiAura Motion**, **LiAura Convites**, and **MMORPG Elaris** (no launch dates promised).
 
 ## Documentation
 
