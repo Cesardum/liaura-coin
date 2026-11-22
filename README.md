@@ -44,3 +44,33 @@ cmake --build build-release --target daemon simplewallet wallet_rpc_server -j16
 # Iniciar RPC da carteira
 ./liaura-wallet-rpc --rpc-bind-port 19085 --daemon-address 127.0.0.1:19081 --wallet-dir ./wallets
 ```
+
+## Ecossistema LiAura — O que estamos construindo
+
+A **LiAura Coin (LIA)** é uma criptomoeda com blockchain própria, desenvolvida para integrar futuramente softwares, serviços digitais e jogos.
+
+Nosso objetivo é construir um ecossistema em que a LIA tenha aplicações práticas.
+
+### Softwares LiAura
+
+Estamos desenvolvendo aplicações que poderão ser adquiridas em reais (BRL) ou utilizando LIA, com descontos especiais para pagamentos realizados com nossa criptomoeda.
+
+**Previsão de disponibilização:**
+- Primeiro software: até o final da próxima semana.
+- Segundo software: na sequência, conforme a conclusão dos testes.
+
+Essas datas são metas de desenvolvimento e podem sofrer alterações.
+
+### MMORPG LiAura
+
+Também estamos desenvolvendo um MMORPG que fará parte do ecossistema LiAura.
+
+Planejamos permitir que jogadores utilizem LIA para adquirir itens cosméticos e personalizações visuais, sem comprometer o equilíbrio competitivo do jogo.
+
+O jogo permanece em desenvolvimento e ainda não possui data oficial de lançamento.
+
+### Nossa visão
+
+Queremos que a LiAura Coin seja mais do que uma moeda digital: uma forma de conectar nossos softwares, jogos e futuros serviços.
+
+**A blockchain e a carteira já foram disponibilizadas publicamente. As integrações comerciais e o MMORPG ainda estão em desenvolvimento.**
