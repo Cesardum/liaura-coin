@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/liaura-banner.png" alt="LiAura Coin (LIA) Banner" width="100%">
+  <img src="assets/liaura-coin-oficial.png" alt="LiAura Coin (LIA) Banner" width="100%">
 </p>
 
 # LiAura Coin (LIA)
