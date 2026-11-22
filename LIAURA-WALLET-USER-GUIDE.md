@@ -1,18 +1,22 @@
-# Guia Rápido do Usuário — LiAura Wallet v1.0.0
+# Guia Rápido do Usuário — LiAura Wallet `v1.2.0-https`
 
-## 1. Instalação (Ubuntu/Debian)
+## 1. Instalação (Ubuntu/Debian `amd64`)
 
-```bash
-sudo dpkg -i liaura-wallet_1.0.0_amd64.deb
-liaura-wallet
-```
+1. Baixe o pacote `liaura-wallet_1.2.0-https_amd64.deb` na página de releases oficiais.
+2. Verifique o SHA-256:
+   `151a26a3b86e697818a698b07f4a1fa2ef94a183930aad74837aff1ed0314ff2`
+3. Instale e abra:
+   ```bash
+   sudo dpkg -i liaura-wallet_1.2.0-https_amd64.deb
+   liaura-wallet
+   ```
 
-## 2. Criar ou Importar Carteira
+## 2. Conexão ao Nó
 
-- **Criar Nova:** informe um nome e senha forte, anote as **25 palavras da seed** offline e marque a confirmação de backup.
-- **Importar Seed:** cole as 25 palavras, informe a altura de restauração (ou `0`) e defina uma senha local.
+- **Nó remoto público (HTTPS):** `https://node.serviupedidos.com.br`
+- **Nó local (opcional):** `127.0.0.1:19081`
 
-## 3. Receber e Enviar LIA
+## 3. Segurança (Seed e Chaves Privadas)
 
-- **Receber:** copie seu endereço `Rk...` ou escaneie o QR Code (suporte a subendereços incluído).
-- **Enviar:** informe o endereço de destino, o valor em LIA, clique em **Estimar Taxa** e confirme em **Enviar LIA**.
+- Ao criar uma carteira, anote as **25 palavras da seed** offline e nunca as compartilhe.
+- Suas chaves privadas e *seed* permanecem exclusivamente no seu computador.

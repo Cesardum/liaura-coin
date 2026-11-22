@@ -1,16 +1,17 @@
-# Configuração de Nó Público (Nautilus) e Mineração Externa
+# Nó Público e Mineração — LiAura Coin (LIA)
 
-**Nota:** Nenhuma alteração foi feita no Serviu Delivery, Nginx, PM2 ou firewall nesta etapa.
+**Status da Rede:** A Mainnet LiAura Coin está em **validação controlada/interna** (ainda não liberada para utilização comercial ampla).
 
-## 1. Nó Público Nautilus (`168.227.237.253`)
+## 1. Usuários Finais (Consulta e Carteira)
 
-- **P2P Público:** porta `19080/tcp` aberta para peers externos.
-- **RPC Público Restrito (para carteiras):** `--restricted-rpc --rpc-bind-ip 127.0.0.1 --rpc-bind-port 19089` atrás de proxy reverso TLS/HTTPS (ex.: `node.liaura.org` quando domínio for apontado), com *rate limiting*.
-- **RPC Administrativo (`19081`):** manter estritamente em `127.0.0.1`, nunca expor à internet.
+- Utilize a **LiAura Wallet `v1.2.0-https`** conectada ao endpoint HTTPS público `https://node.serviupedidos.com.br`.
+- O RPC administrativo (`19081`) permanece estritamente local nos servidores e nunca deve ser exposto à internet.
 
-## 2. Mineração Externa (Mainnet)
+## 2. Mineração Experimental (CPU / RandomX)
+
+Procedimento experimental para operadores técnicos com nó local sincronizado (`liaurad`):
 
 ```bash
 ./liaurad --add-priority-node 168.227.237.253:19080 --start-mining <SEU_ENDERECO_LIA> --mining-threads 4
 ```
-- Consultar altura e dificuldade: `curl -s http://127.0.0.1:19081/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_info"}'`.
+- **Maturação:** recompensas de mineração exigem `60` blocos de maturação antes de ficarem disponíveis para envio.
