@@ -1,0 +1,3 @@
+3379849b1a379944bb2c39898d9840a2347aae8e058d8345fa2a7f4f8a8c5f4e  /mnt/RASEC-PROJETOS/LIAURA-COIN/liaura-build-release-a/bin/liaurad
+1c4a1b755459f3fbe37a9c98a6aece50acb3a268f3054dbfe98f0c3367527043  /mnt/RASEC-PROJETOS/LIAURA-COIN/liaura-build-release-a/bin/liaura-wallet-cli
+e4b49b3fb29e6615eadbc3ac3058b04c2a427ad1acc797aaf40dddf6a3c03df2  /mnt/RASEC-PROJETOS/LIAURA-COIN/liaura-build-release-a/bin/liaura-wallet-rpc
