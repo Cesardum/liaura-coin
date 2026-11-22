@@ -5,7 +5,7 @@
 - Deterministic A/B builds (`liaurad`, `liaura-wallet-cli`, `liaura-wallet-rpc`).
 - Public HTTPS restricted RPC node (`https://node.serviupedidos.com.br`) and P2P seed (`168.227.237.253:19080`).
 - LiAura Wallet Desktop `v1.2.0-https` (`.deb`) with SSRF/DNS-rebinding protection and strict TLS.
-- Controlled Mainnet transfer and difficulty convergence audit.
+- Controlled Mainnet transfer test and difficulty audit completed (120s block-target convergence under ongoing monitoring).
 
 ## Pending (Before Broad Exchange/Public Expansion)
 - Public source-code repository publication (pending owner review).

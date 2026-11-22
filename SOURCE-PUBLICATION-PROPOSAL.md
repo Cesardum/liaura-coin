@@ -3,7 +3,7 @@
 **Note:** Full C++ source code has **not** been pushed automatically. This proposal documents what is required before publishing.
 
 ## 1. Inventory & Submodules
-- **Source tree:** `/mnt/RASEC-PROJETOS/LIAURA-COIN/liaura-src` (branch `liaura-identity-rebrand`, commit `a81e122`, based on `liaura-unified-hf-132`).
+- **Source tree:** `<local-liaura-src>` (branch `liaura-identity-rebrand`, commit `a81e122`, based on `liaura-unified-hf-132`).
 - **Submodules:** `external/randomx`, `external/rapidjson`, `external/supercop`, `external/trezor-common`.
 - **License:** `BSD-3-Clause` (`LICENSE` preserving The Monero Project copyright).
 
