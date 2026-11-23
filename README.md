@@ -20,11 +20,15 @@
 | **Mainnet Ports** | P2P `19080` / RPC `19081` / Prefix `0x114` |
 | **Public HTTPS Node** | `https://node.serviupedidos.com.br` |
 
-## Project Status (Controlled Validation — Not Broadly Released)
+## Official Launch — Mainnet Live
 
-- **Mainnet Status:** Active in **controlled/internal validation** (not yet broadly released for exchange/commercial use; no independent external audit has been performed).
-- **Implemented & Internally Tested:** Unified `v1..v16` hardfork schedule, deterministic A/B builds (`liaurad`, `liaura-wallet-cli`, `liaura-wallet-rpc`), LiAura Wallet Desktop `v1.2.0-https` (`.deb`, SHA-256 `151a26a3b86e697818a698b07f4a1fa2ef94a183930aad74837aff1ed0314ff2`), and controlled Mainnet transfer verification.
-- **Planned Ecosystem (In Development):** **LiAura Motion**, **LiAura Convites**, and **MMORPG Elaris** (no launch dates promised).
+**LiAura Coin (LIA) has officially launched.** Its independent Layer-1 mainnet is operational, with dedicated network infrastructure, wallet software, and confirmed on-chain transfers. LiAura is a live blockchain project, not a concept or an upcoming test network.
+
+- **Mainnet:** Live, using RandomX Proof of Work and the published LiAura network parameters.
+- **Implemented Technology:** Unified `v1..v16` hardfork schedule, deterministic A/B builds (`liaurad`, `liaura-wallet-cli`, `liaura-wallet-rpc`), and LiAura Wallet Desktop `v1.2.0-https` (`.deb`, SHA-256 `151a26a3b86e697818a698b07f4a1fa2ef94a183930aad74837aff1ed0314ff2`). Mainnet transfers have been verified.
+- **Public Expansion:** Documentation and the HTTPS node endpoint are published. Wider distribution, exchange integrations, and ecosystem adoption are separate milestones; no exchange listing is claimed.
+- **Security Transparency:** An independent external security/cryptographic audit has not yet been completed. Existing technical verifications are internal.
+- **Ecosystem Roadmap:** **LiAura Motion**, **LiAura Convites**, and **MMORPG Elaris** (no launch dates promised).
 
 ## Documentation
 
