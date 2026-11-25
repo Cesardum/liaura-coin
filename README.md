@@ -23,15 +23,13 @@
 ## Public Infrastructure & Mining
 
 - **Block Explorer:** [https://node.serviupedidos.com.br/explorer/](https://node.serviupedidos.com.br/explorer/)
-- **Public Mining Pool:** [https://node.serviupedidos.com.br/pool/](https://node.serviupedidos.com.br/pool/)
-- **Pool Stats API:** `https://node.serviupedidos.com.br/pool/api/stats`
 - **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`168.227.237.253:19080`)
-- **Stratum Mining Endpoint:** `node.serviupedidos.com.br:3333` (`RandomX rx/0`, `1.0%` fee)
+- **Stratum Mining Endpoint:** `170.84.219.38:3333` (`RandomX rx/0`, `1.0%` fee)
 
 ### Mine LIA with XMRig
 
 ```bash
-xmrig -o node.serviupedidos.com.br:3333 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
+xmrig -o 170.84.219.38:3333 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 ```
 
 ## Official Launch — Mainnet Live
