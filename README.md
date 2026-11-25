@@ -20,6 +20,20 @@
 | **Mainnet Ports** | P2P `19080` / RPC `19081` / Prefix `0x114` |
 | **Public HTTPS Node** | `https://node.serviupedidos.com.br` |
 
+## Public Infrastructure & Mining
+
+- **Block Explorer:** [https://node.serviupedidos.com.br/explorer/](https://node.serviupedidos.com.br/explorer/)
+- **Public Mining Pool:** [https://node.serviupedidos.com.br/pool/](https://node.serviupedidos.com.br/pool/)
+- **Pool Stats API:** `https://node.serviupedidos.com.br/pool/api/stats`
+- **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`168.227.237.253:19080`)
+- **Stratum Mining Endpoint:** `node.serviupedidos.com.br:3333` (`RandomX rx/0`, `1.0%` fee)
+
+### Mine LIA with XMRig
+
+```bash
+xmrig -o node.serviupedidos.com.br:3333 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
+```
+
 ## Official Launch — Mainnet Live
 
 **LiAura Coin (LIA) has officially launched.** Its independent Layer-1 mainnet is operational, with dedicated network infrastructure, wallet software, and confirmed on-chain transfers. LiAura is a live blockchain project, not a concept or an upcoming test network.
