@@ -23,15 +23,15 @@
 ## Public Infrastructure & Mining
 
 - **Block Explorer:** [https://node.serviupedidos.com.br/explorer/](https://node.serviupedidos.com.br/explorer/)
-- **Public Mining Pool:** [https://api.trycloudflare.com/pool/](https://api.trycloudflare.com/pool/)
-- **Pool Stats API:** `https://api.trycloudflare.com/pool/api/stats`
+- **Public Mining Pool:** [https://sandy-varies-schedules-identity.trycloudflare.com/pool/](https://sandy-varies-schedules-identity.trycloudflare.com/pool/)
+- **Pool Stats API:** `https://sandy-varies-schedules-identity.trycloudflare.com/pool/api/stats`
 - **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`168.227.237.253:19080`)
-- **Stratum Mining Endpoint:** `bore.pub:7835` (`RandomX rx/0`, `1.0%` fee)
+- **Stratum Mining Endpoint:** `bore.pub:43824` (`RandomX rx/0`, `1.0%` fee)
 
 ### Mine LIA with XMRig
 
 ```bash
-xmrig -o bore.pub:7835 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
+xmrig -o bore.pub:43824 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 ```
 
 ## Official Launch — Mainnet Live
