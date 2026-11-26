@@ -54,3 +54,17 @@ xmrig -o bore.pub:43824 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 - [EXCHANGE-LISTING.md](EXCHANGE-LISTING.md)
 - [SOURCE-PUBLICATION-PROPOSAL.md](SOURCE-PUBLICATION-PROPOSAL.md)
 - [LICENSE](LICENSE) (BSD-3-Clause, preserving The Monero Project attribution)
+
+## Official Mining Pool
+
+- **Stratum Endpoint:** `bore.pub:43824`
+- **Algorithm:** RandomX (`rx/0`)
+- **Pool Fee:** `1%`
+- **Minimum Payout:** `1 LIA` (automatic payouts)
+- **Maturity Depth:** `60 blocks`
+
+### Quick Start (`xmrig`)
+
+```bash
+xmrig -o bore.pub:43824 -u YOUR_LIAURA_WALLET -p worker1 -a rx/0 --donate-level=0
+```
