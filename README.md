@@ -26,12 +26,12 @@
 - **Public Mining Pool:** [https://worcester-population-charged-sold.trycloudflare.com/pool/](https://worcester-population-charged-sold.trycloudflare.com/pool/)
 - **Pool Stats API:** `https://worcester-population-charged-sold.trycloudflare.com/pool/api/stats`
 - **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`168.227.237.253:19080`)
-- **Stratum Mining Endpoint:** `bore.pub:43824` (`RandomX rx/0`, `1.0%` fee)
+- **Stratum Mining Endpoint:** `bore.pub:43668` (`RandomX rx/0`, `1.0%` fee)
 
 ### Mine LIA with XMRig
 
 ```bash
-xmrig -o bore.pub:43824 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
+xmrig -o bore.pub:43668 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 ```
 
 ## Official Launch — Mainnet Live
