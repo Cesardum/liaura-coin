@@ -1,11 +1,11 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-27T22:17:24.428Z`
+- **Updated (UTC):** `2026-11-27T22:23:24.451Z`
 - **Chain Height:** `5476`
 - **Network Difficulty:** `2439905`
-- **Estimated Pool Hashrate:** `312 H/s`
+- **Estimated Pool Hashrate:** `55 H/s`
 - **Active Miners:** `1`
-- **Round Shares:** `718000`
+- **Round Shares:** `778000`
 - **Blocks (Total / Immature / Mature):** `82 / 1 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
@@ -13,9 +13,6 @@
 
 | Time | Event |
 | --- | --- |
-| `nov 27 18:45:10` | `[LOGIN] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl agent="XMRig/6.27.0 (Linux x86_64) libuv/1.48.0 gcc/13.3.0" ip=redacted` |
-| `nov 27 18:46:24` | `[DISCONNECT] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl shares=208` |
-| `nov 27 18:46:39` | `[LOGIN] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl agent="XMRig/6.27.0 (Linux x86_64) libuv/1.48.0 gcc/13.3.0" ip=redacted` |
 | `nov 27 18:49:00` | `[DISCONNECT] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl shares=11` |
 | `nov 27 18:49:00` | `[LOGIN] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl agent="XMRig/6.27.0 (Linux x86_64) libuv/1.48.0 gcc/13.3.0" ip=redacted` |
 | `nov 27 18:50:34` | `[DISCONNECT] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl shares=181` |
@@ -28,3 +25,6 @@
 | `nov 27 21:15:03` | `[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent="XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8" ip=redacted` |
 | `nov 27 21:37:23` | `[BLOCK] height=5459 hash=f254...0000 finder=Rkt3D9uBpATY...nxM66y` |
 | `nov 27 21:59:57` | `[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent="XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8" ip=redacted` |
+| `nov 27 22:18:03` | `[DISCONNECT] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 shares=338` |
+| `nov 27 22:18:14` | `[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent="XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8" ip=redacted` |
+| `nov 27 22:20:20` | `[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent="XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8" ip=redacted` |
