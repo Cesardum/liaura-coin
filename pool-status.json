@@ -1,13 +1,13 @@
 {
-  "updatedAtUtc": "2026-11-27T22:40:24.429Z",
+  "updatedAtUtc": "2026-11-27T22:46:24.426Z",
   "network": {
     "height": 5477,
     "difficulty": 2440700
   },
   "pool": {
-    "estimatedHashrate": 235,
+    "estimatedHashrate": 237,
     "activeMiners": 1,
-    "roundShares": 207000,
+    "roundShares": 293000,
     "totalBlocks": 83,
     "immatureBlocks": 2,
     "matureBlocks": 56,
