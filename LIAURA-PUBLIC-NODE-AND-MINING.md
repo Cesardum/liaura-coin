@@ -12,6 +12,6 @@
 Procedimento experimental para operadores técnicos com nó local sincronizado (`liaurad`):
 
 ```bash
-./liaurad --add-priority-node 168.227.237.253:19080 --start-mining <SEU_ENDERECO_LIA> --mining-threads 4
+./liaurad --add-priority-node 10.0.0.112:19080 --start-mining <SEU_ENDERECO_LIA> --mining-threads 4
 ```
 - **Maturação:** recompensas de mineração exigem `60` blocos de maturação antes de ficarem disponíveis para envio.
