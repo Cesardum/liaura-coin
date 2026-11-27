@@ -23,8 +23,8 @@
 ## Public Infrastructure & Mining
 
 - **Block Explorer:** [https://node.serviupedidos.com.br/explorer/](https://node.serviupedidos.com.br/explorer/)
-- **Public Mining Pool:** [https://sandy-varies-schedules-identity.trycloudflare.com/pool/](https://sandy-varies-schedules-identity.trycloudflare.com/pool/)
-- **Pool Stats API:** `https://sandy-varies-schedules-identity.trycloudflare.com/pool/api/stats`
+- **Public Mining Pool:** [https://worcester-population-charged-sold.trycloudflare.com/pool/](https://worcester-population-charged-sold.trycloudflare.com/pool/)
+- **Pool Stats API:** `https://worcester-population-charged-sold.trycloudflare.com/pool/api/stats`
 - **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`168.227.237.253:19080`)
 - **Stratum Mining Endpoint:** `bore.pub:43824` (`RandomX rx/0`, `1.0%` fee)
 
