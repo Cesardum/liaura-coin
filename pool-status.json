@@ -1,15 +1,15 @@
 {
-  "updatedAtUtc": "2026-11-27T21:36:24.458Z",
+  "updatedAtUtc": "2026-11-27T21:42:24.431Z",
   "network": {
-    "height": 5457,
-    "difficulty": 2452341
+    "height": 5467,
+    "difficulty": 2457326
   },
   "pool": {
-    "estimatedHashrate": 300,
+    "estimatedHashrate": 292,
     "activeMiners": 1,
-    "roundShares": 3295000,
-    "totalBlocks": 81,
-    "immatureBlocks": 0,
+    "roundShares": 88000,
+    "totalBlocks": 82,
+    "immatureBlocks": 1,
     "matureBlocks": 56,
     "totalPayoutsCount": 7,
     "totalPaidAtomic": "59871143169313"
@@ -29,10 +29,6 @@
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 27 18:43:00",
-      "msg": "[LOGIN] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl agent=\"XMRig/6.27.0 (Linux x86_64) libuv/1.48.0 gcc/13.3.0\" ip=redacted"
-    },
     {
       "ts": "nov 27 18:44:34",
       "msg": "[DISCONNECT] wallet=Rksh4ixoQFwg...vhbKCY worker=wsl shares=547"
@@ -88,6 +84,10 @@
     {
       "ts": "nov 27 21:15:03",
       "msg": "[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent=\"XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8\" ip=redacted"
+    },
+    {
+      "ts": "nov 27 21:37:23",
+      "msg": "[BLOCK] height=5459 hash=f254...0000 finder=Rkt3D9uBpATY...nxM66y"
     }
   ]
 }
