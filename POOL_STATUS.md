@@ -1,6 +1,6 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-27T20:48:59.131Z`
+- **Updated (UTC):** `2026-11-27T20:49:18.491Z`
 - **Chain Height:** `5429`
 - **Network Difficulty:** `2413312`
 - **Estimated Pool Hashrate:** `0 H/s`
