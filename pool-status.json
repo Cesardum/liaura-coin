@@ -1,8 +1,8 @@
 {
-  "updatedAtUtc": "2026-11-27T21:06:24.441Z",
+  "updatedAtUtc": "2026-11-27T21:12:24.476Z",
   "network": {
-    "height": 5438,
-    "difficulty": 2422691
+    "height": 5441,
+    "difficulty": 2434858
   },
   "pool": {
     "estimatedHashrate": 0,
