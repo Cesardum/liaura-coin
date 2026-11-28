@@ -1,21 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T05:44:24.526Z`
-- **Chain Height:** `5530`
-- **Network Difficulty:** `2479225`
-- **Estimated Pool Hashrate:** `9028 H/s`
+- **Updated (UTC):** `2026-11-28T05:50:24.577Z`
+- **Chain Height:** `5531`
+- **Network Difficulty:** `2488015`
+- **Estimated Pool Hashrate:** `19822 H/s`
 - **Active Miners:** `3`
-- **Round Shares:** `1884000`
-- **Blocks (Total / Immature / Mature):** `136 / 54 / 56`
+- **Round Shares:** `2859000`
+- **Blocks (Total / Immature / Mature):** `137 / 55 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 05:29:04` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
-| `nov 28 05:30:09` | `[BLOCK] height=5523 hash=66a1...ce31 pow=468a...0000 finder=S6HBehZgtnHb...dnhLkm` |
-| `nov 28 05:30:11` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
 | `nov 28 05:30:12` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1987` |
 | `nov 28 05:31:37` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1652` |
 | `nov 28 05:34:33` | `[BLOCK] height=5524 hash=0e59...e645 pow=aec5...0000 finder=Rksu8kEiQCJe...A6ETt6` |
@@ -28,3 +25,6 @@
 | `nov 28 05:43:05` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
 | `nov 28 05:43:05` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=183` |
 | `nov 28 05:44:22` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=2100` |
+| `nov 28 05:48:26` | `[BLOCK] height=5530 hash=653b...f720 pow=4ca6...0000 finder=S6HBehZgtnHb...dnhLkm` |
+| `nov 28 05:48:27` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 05:48:28` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=5797` |
