@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T12:00:24.505Z",
+  "updatedAtUtc": "2026-11-28T12:06:24.508Z",
   "network": {
-    "height": 5713,
-    "difficulty": 1982235
+    "height": 5715,
+    "difficulty": 1987726
   },
   "pool": {
-    "estimatedHashrate": 6828,
+    "estimatedHashrate": 6975,
     "activeMiners": 2,
-    "roundShares": 5533000,
-    "totalBlocks": 319,
+    "roundShares": 71000,
+    "totalBlocks": 321,
     "immatureBlocks": 59,
-    "matureBlocks": 236,
-    "totalPayoutsCount": 122,
-    "totalPaidAtomic": "257746623770738"
+    "matureBlocks": 238,
+    "totalPayoutsCount": 124,
+    "totalPaidAtomic": "260428181646371"
   },
   "recentWorkers": [
     {
@@ -25,26 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "639482747729"
+      "balanceAtomic": "863380481963"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "980666172195"
+      "balanceAtomic": "999546923041"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "936064358489"
+      "balanceAtomic": "248474227924"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 11:13:02",
-      "msg": "[BLOCK] height=5708 hash=b515...d84f pow=2107...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
-    {
-      "ts": "nov 28 11:13:21",
-      "msg": "[BLOCK] height=5709 hash=12e0...7645 pow=ece9...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
     {
       "ts": "nov 28 11:21:20",
       "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=22443"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 11:50:37",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 12:02:38",
+      "msg": "[BLOCK] height=5713 hash=c88c...55b2 pow=b57f...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 12:06:11",
+      "msg": "[BLOCK] height=5714 hash=3e15...8590 pow=3b72...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
