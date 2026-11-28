@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T13:06:24.496Z",
+  "updatedAtUtc": "2026-11-28T13:12:24.480Z",
   "network": {
-    "height": 5729,
-    "difficulty": 1984253
+    "height": 5731,
+    "difficulty": 1988528
   },
   "pool": {
-    "estimatedHashrate": 7002,
+    "estimatedHashrate": 6952,
     "activeMiners": 2,
-    "roundShares": 2476000,
-    "totalBlocks": 335,
+    "roundShares": 143000,
+    "totalBlocks": 337,
     "immatureBlocks": 59,
-    "matureBlocks": 252,
-    "totalPayoutsCount": 135,
-    "totalPaidAtomic": "277196905344401"
+    "matureBlocks": 254,
+    "totalPayoutsCount": 136,
+    "totalPaidAtomic": "278883895612936"
   },
   "recentWorkers": [
     {
@@ -25,26 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "845465663766"
+      "balanceAtomic": "869621392465"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "153695409475"
+      "balanceAtomic": "168977625959"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "417080000"
+      "balanceAtomic": "510610208331"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 12:45:26",
-      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
-    },
-    {
-      "ts": "nov 28 12:45:46",
-      "msg": "[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent=\"XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019\" ip=redacted"
-    },
     {
       "ts": "nov 28 12:45:46",
       "msg": "[BLOCK] height=5725 hash=faa1...f6e5 pow=7494...0000 finder=Rksu8kEiQCJe...A6ETt6"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 13:00:27",
       "msg": "[BLOCK] height=5728 hash=84be...afab pow=fc66...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:10:52",
+      "msg": "[BLOCK] height=5729 hash=0077...7728 pow=b697...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:12:00",
+      "msg": "[BLOCK] height=5730 hash=972e...5539 pow=8215...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
