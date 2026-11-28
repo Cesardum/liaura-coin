@@ -1,19 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T12:36:24.534Z`
-- **Chain Height:** `5723`
-- **Network Difficulty:** `1979049`
-- **Estimated Pool Hashrate:** `7050 H/s`
+- **Updated (UTC):** `2026-11-28T12:42:24.549Z`
+- **Chain Height:** `5724`
+- **Network Difficulty:** `1977602`
+- **Estimated Pool Hashrate:** `7020 H/s`
 - **Active Miners:** `2`
-- **Round Shares:** `599000`
-- **Blocks (Total / Immature / Mature):** `329 / 59 / 246`
-- **Total Payouts:** `131` (`270469087459532` atomic units)
+- **Round Shares:** `1369000`
+- **Blocks (Total / Immature / Mature):** `330 / 59 / 247`
+- **Total Payouts:** `132` (`271627080700476` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 11:32:41` | `[BLOCK] height=5710 hash=7191...2fc2 pow=6bda...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 11:43:36` | `[BLOCK] height=5711 hash=9398...3999 pow=3237...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 11:46:30` | `[BLOCK] height=5712 hash=6c72...71eb pow=8df2...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 11:50:37` | `[LOGIN] wallet=Rkt3D9uBpATY...nxM66y worker=kingkong9 agent="XMRig/6.26.0 (Linux aarch64) libuv/1.53.0 clang/21.1.8" ip=redacted` |
@@ -28,3 +27,4 @@
 | `nov 28 12:28:26` | `[BLOCK] height=5720 hash=f507...4fc1 pow=619d...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 12:31:10` | `[BLOCK] height=5721 hash=6814...0984 pow=a80f...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 12:35:01` | `[BLOCK] height=5722 hash=e141...c01f pow=e9ae...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 12:39:09` | `[BLOCK] height=5723 hash=937e...95d6 pow=c219...0000 finder=Rksu8kEiQCJe...A6ETt6` |
