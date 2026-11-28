@@ -22,6 +22,8 @@
 
 ## Public Infrastructure & Mining
 
+- **Official Discord:** [https://discord.gg/RPW86v5G7Z](https://discord.gg/RPW86v5G7Z)
+- **LiAura Hub:** [https://liaura.serviupedidos.com.br](https://liaura.serviupedidos.com.br)
 - **Block Explorer:** [https://node.serviupedidos.com.br/explorer/](https://node.serviupedidos.com.br/explorer/)
 - **Public Mining Pool:** [https://worcester-population-charged-sold.trycloudflare.com/pool/](https://worcester-population-charged-sold.trycloudflare.com/pool/)
 - **Pool Stats API:** `https://worcester-population-charged-sold.trycloudflare.com/pool/api/stats`
