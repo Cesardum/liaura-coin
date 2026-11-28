@@ -1,24 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T03:20:24.431Z`
-- **Chain Height:** `5491`
-- **Network Difficulty:** `2466539`
-- **Estimated Pool Hashrate:** `170 H/s`
-- **Active Miners:** `1`
-- **Round Shares:** `4955000`
-- **Blocks (Total / Immature / Mature):** `97 / 16 / 56`
+- **Updated (UTC):** `2026-11-28T03:26:24.479Z`
+- **Chain Height:** `5492`
+- **Network Difficulty:** `2464784`
+- **Estimated Pool Hashrate:** `2857 H/s`
+- **Active Miners:** `2`
+- **Round Shares:** `439000`
+- **Blocks (Total / Immature / Mature):** `98 / 17 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 00:53:54` | `[BLOCK] height=5479 hash=17bd...7d23 pow=e681...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 00:58:56` | `[BLOCK] height=5480 hash=90dc...1d80 pow=b9b3...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 01:00:46` | `[BLOCK] height=5481 hash=19e7...c2cd pow=30db...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 01:07:46` | `[BLOCK] height=5482 hash=9b54...a025 pow=7ec8...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 01:16:20` | `[BLOCK] height=5483 hash=c7ad...6c00 pow=0f32...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 01:16:52` | `[BLOCK] height=5484 hash=e38d...d3d0 pow=8e97...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 01:21:50` | `[BLOCK] height=5485 hash=b7ab...42ea pow=5dcc...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 01:44:58` | `[BLOCK] height=5486 hash=263f...db3c pow=0111...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 01:57:12` | `[BLOCK] height=5487 hash=2910...f9bf pow=55b7...0000 finder=Rksu8kEiQCJe...A6ETt6` |
@@ -28,3 +22,9 @@
 | `nov 28 02:28:28` | `[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=38474` |
 | `nov 28 02:33:25` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
 | `nov 28 02:33:25` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
+| `nov 28 03:21:59` | `[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent="XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026" ip=redacted` |
+| `nov 28 03:22:03` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
+| `nov 28 03:22:04` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
+| `nov 28 03:22:09` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
+| `nov 28 03:22:12` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
+| `nov 28 03:25:15` | `[BLOCK] height=5491 hash=c3e4...29d1 pow=adb1...0000 finder=Rksu8kEiQCJe...A6ETt6` |
