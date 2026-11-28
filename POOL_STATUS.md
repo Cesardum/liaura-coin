@@ -1,19 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T10:54:24.574Z`
-- **Chain Height:** `5703`
-- **Network Difficulty:** `1974338`
-- **Estimated Pool Hashrate:** `6978 H/s`
+- **Updated (UTC):** `2026-11-28T11:00:24.537Z`
+- **Chain Height:** `5704`
+- **Network Difficulty:** `1980586`
+- **Estimated Pool Hashrate:** `7048 H/s`
 - **Active Miners:** `2`
-- **Round Shares:** `402000`
-- **Blocks (Total / Immature / Mature):** `309 / 59 / 226`
+- **Round Shares:** `381000`
+- **Blocks (Total / Immature / Mature):** `310 / 59 / 227`
 - **Total Payouts:** `116` (`248228902605912` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 10:05:57` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
 | `nov 28 10:05:57` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
 | `nov 28 10:05:59` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
 | `nov 28 10:05:59` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
@@ -28,3 +27,4 @@
 | `nov 28 10:47:47` | `[BLOCK] height=5700 hash=2faf...9326 pow=b53f...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 10:52:25` | `[BLOCK] height=5701 hash=de87...c0f6 pow=364c...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 10:53:25` | `[BLOCK] height=5702 hash=510e...4bec pow=d866...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 10:59:33` | `[BLOCK] height=5703 hash=9447...d71d pow=8b9c...0000 finder=Rksu8kEiQCJe...A6ETt6` |
