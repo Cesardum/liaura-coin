@@ -1,13 +1,13 @@
 {
-  "updatedAtUtc": "2026-11-28T09:42:24.500Z",
+  "updatedAtUtc": "2026-11-28T09:48:24.491Z",
   "network": {
     "height": 5696,
     "difficulty": 1971174
   },
   "pool": {
-    "estimatedHashrate": 5675,
-    "activeMiners": 2,
-    "roundShares": 2229000,
+    "estimatedHashrate": 4387,
+    "activeMiners": 1,
+    "roundShares": 3444000,
     "totalBlocks": 302,
     "immatureBlocks": 59,
     "matureBlocks": 219,
@@ -37,10 +37,6 @@
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 09:24:02",
-      "msg": "[BLOCK] height=5690 hash=12ca...2424 pow=54b5...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
     {
       "ts": "nov 28 09:24:03",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
@@ -96,6 +92,10 @@
     {
       "ts": "nov 28 09:35:53",
       "msg": "[BLOCK] height=5695 hash=91b3...db3b pow=5e0d...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 09:46:32",
+      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=17878"
     }
   ]
 }
