@@ -1,21 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T05:32:24.449Z`
-- **Chain Height:** `5524`
-- **Network Difficulty:** `2455001`
-- **Estimated Pool Hashrate:** `22058 H/s`
+- **Updated (UTC):** `2026-11-28T05:38:24.500Z`
+- **Chain Height:** `5527`
+- **Network Difficulty:** `2474170`
+- **Estimated Pool Hashrate:** `12278 H/s`
 - **Active Miners:** `3`
-- **Round Shares:** `2503000`
-- **Blocks (Total / Immature / Mature):** `130 / 48 / 56`
+- **Round Shares:** `304000`
+- **Blocks (Total / Immature / Mature):** `133 / 51 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 05:24:48` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=554` |
-| `nov 28 05:25:57` | `[BLOCK] height=5522 hash=40bd...6e66 pow=2b3a...0000 finder=S6HBehZgtnHb...dnhLkm` |
-| `nov 28 05:25:59` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
 | `nov 28 05:26:01` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1358` |
 | `nov 28 05:28:26` | `[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=45488` |
 | `nov 28 05:28:27` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
@@ -28,3 +25,6 @@
 | `nov 28 05:30:11` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
 | `nov 28 05:30:12` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1987` |
 | `nov 28 05:31:37` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1652` |
+| `nov 28 05:34:33` | `[BLOCK] height=5524 hash=0e59...e645 pow=aec5...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 05:34:44` | `[BLOCK] height=5525 hash=9d5e...82c0 pow=1279...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 05:37:37` | `[BLOCK] height=5526 hash=b537...4b78 pow=456d...0000 finder=Rksu8kEiQCJe...A6ETt6` |
