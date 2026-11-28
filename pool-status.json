@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T10:12:24.550Z",
+  "updatedAtUtc": "2026-11-28T10:18:24.516Z",
   "network": {
-    "height": 5696,
-    "difficulty": 1971174
+    "height": 5698,
+    "difficulty": 1971765
   },
   "pool": {
-    "estimatedHashrate": 6863,
+    "estimatedHashrate": 7018,
     "activeMiners": 2,
-    "roundShares": 11986000,
-    "totalBlocks": 302,
+    "roundShares": 477000,
+    "totalBlocks": 304,
     "immatureBlocks": 59,
-    "matureBlocks": 219,
-    "totalPayoutsCount": 110,
-    "totalPaidAtomic": "239235470122734"
+    "matureBlocks": 221,
+    "totalPayoutsCount": 111,
+    "totalPaidAtomic": "240965246840971"
   },
   "recentWorkers": [
     {
@@ -25,26 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "841791047137"
+      "balanceAtomic": "774669852633"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "841884531544"
+      "balanceAtomic": "864316529013"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "371583702916"
+      "balanceAtomic": "923224926063"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 09:28:43",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=52"
-    },
-    {
-      "ts": "nov 28 09:29:50",
-      "msg": "[BLOCK] height=5694 hash=101c...0572 pow=00ed...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
     {
       "ts": "nov 28 09:35:53",
       "msg": "[BLOCK] height=5695 hash=91b3...db3b pow=5e0d...0000 finder=Rksu8kEiQCJe...A6ETt6"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 10:05:59",
       "msg": "[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0"
+    },
+    {
+      "ts": "nov 28 10:15:29",
+      "msg": "[BLOCK] height=5696 hash=ee19...8b89 pow=5758...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 10:17:20",
+      "msg": "[BLOCK] height=5697 hash=3404...d457 pow=f0c3...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
