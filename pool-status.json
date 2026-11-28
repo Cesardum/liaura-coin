@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T13:48:24.518Z",
+  "updatedAtUtc": "2026-11-28T13:54:24.507Z",
   "network": {
-    "height": 5737,
-    "difficulty": 1989371
+    "height": 5739,
+    "difficulty": 1989330
   },
   "pool": {
-    "estimatedHashrate": 6802,
+    "estimatedHashrate": 6890,
     "activeMiners": 2,
-    "roundShares": 159000,
-    "totalBlocks": 343,
+    "roundShares": 1841000,
+    "totalBlocks": 345,
     "immatureBlocks": 59,
-    "matureBlocks": 260,
-    "totalPayoutsCount": 140,
-    "totalPaidAtomic": "285798121614829"
+    "matureBlocks": 262,
+    "totalPayoutsCount": 142,
+    "totalPaidAtomic": "288847299004999"
   },
   "recentWorkers": [
     {
@@ -25,26 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "417190000"
+      "balanceAtomic": "417310000"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "224272470517"
+      "balanceAtomic": "252235881483"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "1120585340594"
+      "balanceAtomic": "280008221506"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 12:52:21",
-      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
-    },
-    {
-      "ts": "nov 28 12:54:24",
-      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=732"
-    },
     {
       "ts": "nov 28 12:54:30",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 13:48:02",
       "msg": "[BLOCK] height=5736 hash=d3fe...f96f pow=9550...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:48:33",
+      "msg": "[BLOCK] height=5737 hash=233b...3be8 pow=61cc...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:49:58",
+      "msg": "[BLOCK] height=5738 hash=e847...fac6 pow=8b77...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
