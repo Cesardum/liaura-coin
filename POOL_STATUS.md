@@ -1,30 +1,30 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T08:43:24.609Z`
-- **Chain Height:** `5661`
-- **Network Difficulty:** `1938945`
-- **Estimated Pool Hashrate:** `24430 H/s`
+- **Updated (UTC):** `2026-11-28T08:49:24.688Z`
+- **Chain Height:** `5667`
+- **Network Difficulty:** `1941672`
+- **Estimated Pool Hashrate:** `23870 H/s`
 - **Active Miners:** `3`
 - **Round Shares:** `297000`
-- **Blocks (Total / Immature / Mature):** `267 / 59 / 183`
-- **Total Payouts:** `88` (`198295623467685` atomic units)
+- **Blocks (Total / Immature / Mature):** `273 / 59 / 189`
+- **Total Payouts:** `92` (`206237389648680` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 08:35:38` | `[BLOCK] height=5656 hash=f5d5...d430 pow=465e...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 08:35:39` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
-| `nov 28 08:35:39` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=543` |
-| `nov 28 08:35:45` | `[BLOCK] height=5657 hash=2023...aa1b pow=edc8...0000 finder=S6HBehZgtnHb...dnhLkm` |
-| `nov 28 08:35:46` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
-| `nov 28 08:35:47` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=77` |
-| `nov 28 08:37:21` | `[BLOCK] height=5658 hash=bdbd...e58a pow=29f3...0000 finder=S6HBehZgtnHb...dnhLkm` |
-| `nov 28 08:37:23` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
-| `nov 28 08:37:23` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1828` |
-| `nov 28 08:42:19` | `[BLOCK] height=5659 hash=ac28...9555 pow=5c52...0000 finder=S6HBehZgtnHb...dnhLkm` |
-| `nov 28 08:42:20` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
-| `nov 28 08:42:21` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=5736` |
-| `nov 28 08:43:11` | `[BLOCK] height=5660 hash=95d6...6f07 pow=9a2b...0000 finder=Rksu8kEiQCJe...A6ETt6` |
-| `nov 28 08:43:12` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
-| `nov 28 08:43:12` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=942` |
+| `nov 28 08:43:37` | `[BLOCK] height=5662 hash=60c7...b557 pow=d3f4...0000 finder=S6HBehZgtnHb...dnhLkm` |
+| `nov 28 08:43:38` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 08:43:38` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=43` |
+| `nov 28 08:46:31` | `[BLOCK] height=5663 hash=7000...6538 pow=c416...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 08:46:32` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 08:46:33` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=3213` |
+| `nov 28 08:47:38` | `[BLOCK] height=5664 hash=5ce5...dcfc pow=ad58...0000 finder=S6HBehZgtnHb...dnhLkm` |
+| `nov 28 08:47:39` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 08:47:40` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1211` |
+| `nov 28 08:48:36` | `[BLOCK] height=5665 hash=4882...750e pow=a8fc...0000 finder=S6HBehZgtnHb...dnhLkm` |
+| `nov 28 08:48:37` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 08:48:37` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1016` |
+| `nov 28 08:49:10` | `[BLOCK] height=5666 hash=80ce...7e5c pow=82b8...0000 finder=S6HBehZgtnHb...dnhLkm` |
+| `nov 28 08:49:11` | `[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent="XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022" ip=redacted` |
+| `nov 28 08:49:12` | `[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=656` |

@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T08:43:24.609Z",
+  "updatedAtUtc": "2026-11-28T08:49:24.688Z",
   "network": {
-    "height": 5661,
-    "difficulty": 1938945
+    "height": 5667,
+    "difficulty": 1941672
   },
   "pool": {
-    "estimatedHashrate": 24430,
+    "estimatedHashrate": 23870,
     "activeMiners": 3,
     "roundShares": 297000,
-    "totalBlocks": 267,
+    "totalBlocks": 273,
     "immatureBlocks": 59,
-    "matureBlocks": 183,
-    "totalPayoutsCount": 88,
-    "totalPaidAtomic": "198295623467685"
+    "matureBlocks": 189,
+    "totalPayoutsCount": 92,
+    "totalPaidAtomic": "206237389648680"
   },
   "recentWorkers": [
     {
@@ -25,77 +25,77 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "897151456119"
+      "balanceAtomic": "391700000"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "519834640964"
+      "balanceAtomic": "551455091952"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "1317050158676"
+      "balanceAtomic": "950531995961"
     }
   ],
   "recentEvents": [
     {
-      "ts": "nov 28 08:35:38",
-      "msg": "[BLOCK] height=5656 hash=f5d5...d430 pow=465e...0000 finder=Rksu8kEiQCJe...A6ETt6"
+      "ts": "nov 28 08:43:37",
+      "msg": "[BLOCK] height=5662 hash=60c7...b557 pow=d3f4...0000 finder=S6HBehZgtnHb...dnhLkm"
     },
     {
-      "ts": "nov 28 08:35:39",
+      "ts": "nov 28 08:43:38",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
     },
     {
-      "ts": "nov 28 08:35:39",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=543"
+      "ts": "nov 28 08:43:38",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=43"
     },
     {
-      "ts": "nov 28 08:35:45",
-      "msg": "[BLOCK] height=5657 hash=2023...aa1b pow=edc8...0000 finder=S6HBehZgtnHb...dnhLkm"
+      "ts": "nov 28 08:46:31",
+      "msg": "[BLOCK] height=5663 hash=7000...6538 pow=c416...0000 finder=Rksu8kEiQCJe...A6ETt6"
     },
     {
-      "ts": "nov 28 08:35:46",
+      "ts": "nov 28 08:46:32",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
     },
     {
-      "ts": "nov 28 08:35:47",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=77"
+      "ts": "nov 28 08:46:33",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=3213"
     },
     {
-      "ts": "nov 28 08:37:21",
-      "msg": "[BLOCK] height=5658 hash=bdbd...e58a pow=29f3...0000 finder=S6HBehZgtnHb...dnhLkm"
+      "ts": "nov 28 08:47:38",
+      "msg": "[BLOCK] height=5664 hash=5ce5...dcfc pow=ad58...0000 finder=S6HBehZgtnHb...dnhLkm"
     },
     {
-      "ts": "nov 28 08:37:23",
+      "ts": "nov 28 08:47:39",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
     },
     {
-      "ts": "nov 28 08:37:23",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1828"
+      "ts": "nov 28 08:47:40",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1211"
     },
     {
-      "ts": "nov 28 08:42:19",
-      "msg": "[BLOCK] height=5659 hash=ac28...9555 pow=5c52...0000 finder=S6HBehZgtnHb...dnhLkm"
+      "ts": "nov 28 08:48:36",
+      "msg": "[BLOCK] height=5665 hash=4882...750e pow=a8fc...0000 finder=S6HBehZgtnHb...dnhLkm"
     },
     {
-      "ts": "nov 28 08:42:20",
+      "ts": "nov 28 08:48:37",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
     },
     {
-      "ts": "nov 28 08:42:21",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=5736"
+      "ts": "nov 28 08:48:37",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1016"
     },
     {
-      "ts": "nov 28 08:43:11",
-      "msg": "[BLOCK] height=5660 hash=95d6...6f07 pow=9a2b...0000 finder=Rksu8kEiQCJe...A6ETt6"
+      "ts": "nov 28 08:49:10",
+      "msg": "[BLOCK] height=5666 hash=80ce...7e5c pow=82b8...0000 finder=S6HBehZgtnHb...dnhLkm"
     },
     {
-      "ts": "nov 28 08:43:12",
+      "ts": "nov 28 08:49:11",
       "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
     },
     {
-      "ts": "nov 28 08:43:12",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=942"
+      "ts": "nov 28 08:49:12",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=656"
     }
   ]
 }
