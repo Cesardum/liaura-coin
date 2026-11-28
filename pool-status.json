@@ -1,13 +1,13 @@
 {
-  "updatedAtUtc": "2026-11-28T12:48:24.489Z",
+  "updatedAtUtc": "2026-11-28T12:54:24.536Z",
   "network": {
     "height": 5726,
     "difficulty": 1980121
   },
   "pool": {
-    "estimatedHashrate": 6013,
+    "estimatedHashrate": 4795,
     "activeMiners": 2,
-    "roundShares": 758000,
+    "roundShares": 2488000,
     "totalBlocks": 332,
     "immatureBlocks": 59,
     "matureBlocks": 249,
@@ -37,22 +37,6 @@
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 12:19:31",
-      "msg": "[BLOCK] height=5717 hash=e6b3...792d pow=de7e...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
-    {
-      "ts": "nov 28 12:20:07",
-      "msg": "[BLOCK] height=5718 hash=9748...28bf pow=b233...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
-    {
-      "ts": "nov 28 12:27:34",
-      "msg": "[BLOCK] height=5719 hash=e692...a254 pow=4675...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
-    {
-      "ts": "nov 28 12:28:26",
-      "msg": "[BLOCK] height=5720 hash=f507...4fc1 pow=619d...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
     {
       "ts": "nov 28 12:31:10",
       "msg": "[BLOCK] height=5721 hash=6814...0984 pow=a80f...0000 finder=Rksu8kEiQCJe...A6ETt6"
@@ -96,6 +80,22 @@
     {
       "ts": "nov 28 12:47:22",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 12:49:00",
+      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=244"
+    },
+    {
+      "ts": "nov 28 12:49:02",
+      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 12:52:21",
+      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 12:54:24",
+      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=732"
     }
   ]
 }
