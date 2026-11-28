@@ -1,11 +1,11 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T04:44:24.472Z`
+- **Updated (UTC):** `2026-11-28T04:50:24.476Z`
 - **Chain Height:** `5509`
 - **Network Difficulty:** `2450640`
-- **Estimated Pool Hashrate:** `6270 H/s`
+- **Estimated Pool Hashrate:** `6355 H/s`
 - **Active Miners:** `2`
-- **Round Shares:** `1234000`
+- **Round Shares:** `3563000`
 - **Blocks (Total / Immature / Mature):** `115 / 34 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
