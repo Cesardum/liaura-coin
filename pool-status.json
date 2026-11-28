@@ -1,16 +1,16 @@
 {
-  "updatedAtUtc": "2026-11-28T08:08:24.584Z",
+  "updatedAtUtc": "2026-11-28T08:14:24.532Z",
   "network": {
-    "height": 5639,
-    "difficulty": 1944300
+    "height": 5640,
+    "difficulty": 1947959
   },
   "pool": {
-    "estimatedHashrate": 22565,
+    "estimatedHashrate": 24583,
     "activeMiners": 3,
-    "roundShares": 989000,
-    "totalBlocks": 245,
+    "roundShares": 7258000,
+    "totalBlocks": 246,
     "immatureBlocks": 59,
-    "matureBlocks": 161,
+    "matureBlocks": 162,
     "totalPayoutsCount": 76,
     "totalPaidAtomic": "176136730319723"
   },
@@ -25,30 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "391730000"
+      "balanceAtomic": "834990161284"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "287838753379"
+      "balanceAtomic": "309021454680"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "417040000"
+      "balanceAtomic": "263082536140"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 08:03:56",
-      "msg": "[BLOCK] height=5634 hash=18bf...9ed2 pow=4f58...0000 finder=S6HBehZgtnHb...dnhLkm"
-    },
-    {
-      "ts": "nov 28 08:03:57",
-      "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
-    },
-    {
-      "ts": "nov 28 08:05:02",
-      "msg": "[BLOCK] height=5635 hash=c08f...e473 pow=e81f...0000 finder=S6HBehZgtnHb...dnhLkm"
-    },
     {
       "ts": "nov 28 08:05:04",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
@@ -96,6 +84,18 @@
     {
       "ts": "nov 28 08:07:46",
       "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=99"
+    },
+    {
+      "ts": "nov 28 08:09:29",
+      "msg": "[BLOCK] height=5639 hash=e80d...5fee pow=f3c8...0000 finder=S6HBehZgtnHb...dnhLkm"
+    },
+    {
+      "ts": "nov 28 08:09:30",
+      "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 08:09:31",
+      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=1986"
     }
   ]
 }
