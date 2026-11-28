@@ -1,20 +1,18 @@
 # LiAura Coin — Pool & Network Status
 
-- **Updated (UTC):** `2026-11-28T04:14:24.453Z`
-- **Chain Height:** `5499`
-- **Network Difficulty:** `2475736`
-- **Estimated Pool Hashrate:** `6375 H/s`
+- **Updated (UTC):** `2026-11-28T04:20:24.464Z`
+- **Chain Height:** `5501`
+- **Network Difficulty:** `2470203`
+- **Estimated Pool Hashrate:** `6507 H/s`
 - **Active Miners:** `2`
-- **Round Shares:** `3556000`
-- **Blocks (Total / Immature / Mature):** `105 / 24 / 56`
+- **Round Shares:** `1197000`
+- **Blocks (Total / Immature / Mature):** `107 / 26 / 56`
 - **Total Payouts:** `7` (`59871143169313` atomic units)
 
 ## Recent Worker & Block Events (Last 24h)
 
 | Time | Event |
 | --- | --- |
-| `nov 28 02:33:25` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
-| `nov 28 02:33:25` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
 | `nov 28 03:21:59` | `[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent="XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026" ip=redacted` |
 | `nov 28 03:22:03` | `[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent="XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019" ip=redacted` |
 | `nov 28 03:22:04` | `[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0` |
@@ -28,3 +26,5 @@
 | `nov 28 04:01:25` | `[BLOCK] height=5496 hash=6623...c655 pow=3187...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 04:02:08` | `[BLOCK] height=5497 hash=b89b...a93d pow=d1d9...0000 finder=Rksu8kEiQCJe...A6ETt6` |
 | `nov 28 04:05:06` | `[BLOCK] height=5498 hash=35c1...93ff pow=88de...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 04:15:42` | `[BLOCK] height=5499 hash=884e...cfa1 pow=a44a...0000 finder=Rksu8kEiQCJe...A6ETt6` |
+| `nov 28 04:17:23` | `[BLOCK] height=5500 hash=e529...5397 pow=eda5...0000 finder=Rksu8kEiQCJe...A6ETt6` |
