@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T10:48:24.483Z",
+  "updatedAtUtc": "2026-11-28T10:54:24.574Z",
   "network": {
-    "height": 5701,
-    "difficulty": 1972772
+    "height": 5703,
+    "difficulty": 1974338
   },
   "pool": {
-    "estimatedHashrate": 7038,
+    "estimatedHashrate": 6978,
     "activeMiners": 2,
-    "roundShares": 260000,
-    "totalBlocks": 307,
+    "roundShares": 402000,
+    "totalBlocks": 309,
     "immatureBlocks": 59,
-    "matureBlocks": 224,
-    "totalPayoutsCount": 114,
-    "totalPaidAtomic": "245493068947485"
+    "matureBlocks": 226,
+    "totalPayoutsCount": 116,
+    "totalPaidAtomic": "248228902605912"
   },
   "recentWorkers": [
     {
@@ -25,26 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "391890000"
+      "balanceAtomic": "417310000"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "883378014397"
+      "balanceAtomic": "889376333291"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "505628732571"
+      "balanceAtomic": "416930000"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 10:05:48",
-      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=5501"
-    },
-    {
-      "ts": "nov 28 10:05:49",
-      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
-    },
     {
       "ts": "nov 28 10:05:57",
       "msg": "[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent=\"XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019\" ip=redacted"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 10:47:47",
       "msg": "[BLOCK] height=5700 hash=2faf...9326 pow=b53f...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 10:52:25",
+      "msg": "[BLOCK] height=5701 hash=de87...c0f6 pow=364c...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 10:53:25",
+      "msg": "[BLOCK] height=5702 hash=510e...4bec pow=d866...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
