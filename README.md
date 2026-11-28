@@ -26,12 +26,12 @@
 - **Public Mining Pool:** [https://worcester-population-charged-sold.trycloudflare.com/pool/](https://worcester-population-charged-sold.trycloudflare.com/pool/)
 - **Pool Stats API:** `https://worcester-population-charged-sold.trycloudflare.com/pool/api/stats`
 - **Public Seed Node (P2P):** `node.serviupedidos.com.br:19080` (`10.0.0.112:19080`)
-- **Stratum Mining Endpoint:** `bore.pub:43668` (`RandomX rx/0`, `1.0%` fee)
+- **Stratum Mining Endpoint:** `bore.pub:7835` (`RandomX rx/0`, `1.0%` fee)
 
 ### Mine LIA with XMRig
 
 ```bash
-xmrig -o bore.pub:43668 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
+xmrig -o bore.pub:7835 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 ```
 
 ## Official Launch — Mainnet Live
@@ -57,7 +57,7 @@ xmrig -o bore.pub:43668 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 
 ## Official Mining Pool
 
-- **Stratum Endpoint:** `bore.pub:43824`
+- **Stratum Endpoint:** `bore.pub:7835`
 - **Algorithm:** RandomX (`rx/0`)
 - **Pool Fee:** `1%`
 - **Minimum Payout:** `1 LIA` (automatic payouts)
@@ -66,5 +66,5 @@ xmrig -o bore.pub:43668 -u YOUR_LIA_WALLET_ADDRESS -p x -a rx/0
 ### Quick Start (`xmrig`)
 
 ```bash
-xmrig -o bore.pub:43824 -u YOUR_LIAURA_WALLET -p worker1 -a rx/0 --donate-level=0
+xmrig -o bore.pub:7835 -u YOUR_LIAURA_WALLET -p worker1 -a rx/0 --donate-level=0
 ```
