@@ -1,13 +1,13 @@
 {
-  "updatedAtUtc": "2026-11-28T11:24:24.489Z",
+  "updatedAtUtc": "2026-11-28T11:30:24.473Z",
   "network": {
     "height": 5710,
     "difficulty": 1982818
   },
   "pool": {
-    "estimatedHashrate": 6177,
+    "estimatedHashrate": 4803,
     "activeMiners": 2,
-    "roundShares": 4191000,
+    "roundShares": 5732000,
     "totalBlocks": 316,
     "immatureBlocks": 59,
     "matureBlocks": 233,
@@ -37,14 +37,6 @@
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 10:52:25",
-      "msg": "[BLOCK] height=5701 hash=de87...c0f6 pow=364c...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
-    {
-      "ts": "nov 28 10:53:25",
-      "msg": "[BLOCK] height=5702 hash=510e...4bec pow=d866...0000 finder=Rksu8kEiQCJe...A6ETt6"
-    },
     {
       "ts": "nov 28 10:59:33",
       "msg": "[BLOCK] height=5703 hash=9447...d71d pow=8b9c...0000 finder=Rksu8kEiQCJe...A6ETt6"
@@ -96,6 +88,14 @@
     {
       "ts": "nov 28 11:21:39",
       "msg": "[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0"
+    },
+    {
+      "ts": "nov 28 11:30:10",
+      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=2696"
+    },
+    {
+      "ts": "nov 28 11:30:14",
+      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
     }
   ]
 }
