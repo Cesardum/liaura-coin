@@ -1,18 +1,18 @@
 {
-  "updatedAtUtc": "2026-11-28T13:00:24.523Z",
+  "updatedAtUtc": "2026-11-28T13:06:24.496Z",
   "network": {
-    "height": 5728,
-    "difficulty": 1977024
+    "height": 5729,
+    "difficulty": 1984253
   },
   "pool": {
-    "estimatedHashrate": 6048,
+    "estimatedHashrate": 7002,
     "activeMiners": 2,
-    "roundShares": 760000,
-    "totalBlocks": 334,
+    "roundShares": 2476000,
+    "totalBlocks": 335,
     "immatureBlocks": 59,
-    "matureBlocks": 251,
-    "totalPayoutsCount": 134,
-    "totalPaidAtomic": "275985760311335"
+    "matureBlocks": 252,
+    "totalPayoutsCount": 135,
+    "totalPaidAtomic": "277196905344401"
   },
   "recentWorkers": [
     {
@@ -25,22 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "417040000"
+      "balanceAtomic": "845465663766"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "141268223832"
+      "balanceAtomic": "153695409475"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "950674134550"
+      "balanceAtomic": "417080000"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 12:45:25",
-      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=22295"
-    },
     {
       "ts": "nov 28 12:45:26",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
@@ -96,6 +92,10 @@
     {
       "ts": "nov 28 12:58:39",
       "msg": "[BLOCK] height=5727 hash=fedf...8e91 pow=e959...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:00:27",
+      "msg": "[BLOCK] height=5728 hash=84be...afab pow=fc66...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
