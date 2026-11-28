@@ -1,13 +1,13 @@
 {
-  "updatedAtUtc": "2026-11-28T09:48:24.491Z",
+  "updatedAtUtc": "2026-11-28T09:54:24.514Z",
   "network": {
     "height": 5696,
     "difficulty": 1971174
   },
   "pool": {
-    "estimatedHashrate": 4387,
-    "activeMiners": 1,
-    "roundShares": 3444000,
+    "estimatedHashrate": 2655,
+    "activeMiners": 2,
+    "roundShares": 4562000,
     "totalBlocks": 302,
     "immatureBlocks": 59,
     "matureBlocks": 219,
@@ -37,26 +37,6 @@
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 09:24:03",
-      "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
-    },
-    {
-      "ts": "nov 28 09:24:03",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=992"
-    },
-    {
-      "ts": "nov 28 09:26:46",
-      "msg": "[BLOCK] height=5691 hash=2fb7...9333 pow=5744...0000 finder=S6HBehZgtnHb...dnhLkm"
-    },
-    {
-      "ts": "nov 28 09:26:47",
-      "msg": "[LOGIN] wallet=S6HBehZgtnHb...dnhLkm worker=9950X agent=\"XMRig/6.26.0 (Windows NT 10.0; Win64; x64) libuv/1.51.0 msvc/2022\" ip=redacted"
-    },
-    {
-      "ts": "nov 28 09:26:47",
-      "msg": "[DISCONNECT] wallet=S6HBehZgtnHb...dnhLkm worker=9950X shares=3130"
-    },
     {
       "ts": "nov 28 09:28:06",
       "msg": "[BLOCK] height=5692 hash=5dd5...fd3b pow=4cca...0000 finder=S6HBehZgtnHb...dnhLkm"
@@ -96,6 +76,26 @@
     {
       "ts": "nov 28 09:46:32",
       "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=17878"
+    },
+    {
+      "ts": "nov 28 09:52:00",
+      "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 09:52:27",
+      "msg": "[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent=\"XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 09:52:29",
+      "msg": "[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0"
+    },
+    {
+      "ts": "nov 28 09:53:52",
+      "msg": "[LOGIN] wallet=42pFDFzXPF8F...N17cLJ worker=x agent=\"XMRig/6.16.2 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019\" ip=redacted"
+    },
+    {
+      "ts": "nov 28 09:53:53",
+      "msg": "[DISCONNECT] wallet=42pFDFzXPF8F...N17cLJ worker=x shares=0"
     }
   ]
 }
