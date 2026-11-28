@@ -1,16 +1,16 @@
 {
-  "updatedAtUtc": "2026-11-28T13:30:24.556Z",
+  "updatedAtUtc": "2026-11-28T13:36:24.500Z",
   "network": {
-    "height": 5733,
-    "difficulty": 1989748
+    "height": 5734,
+    "difficulty": 1989980
   },
   "pool": {
-    "estimatedHashrate": 6283,
+    "estimatedHashrate": 7140,
     "activeMiners": 2,
-    "roundShares": 2726000,
-    "totalBlocks": 339,
+    "roundShares": 1268000,
+    "totalBlocks": 340,
     "immatureBlocks": 59,
-    "matureBlocks": 256,
+    "matureBlocks": 257,
     "totalPayoutsCount": 138,
     "totalPaidAtomic": "281625370986298"
   },
@@ -25,22 +25,18 @@
     },
     {
       "wallet": "S6HB...hLkm",
-      "balanceAtomic": "857932653105"
+      "balanceAtomic": "1693746780506"
     },
     {
       "wallet": "Rkt3...M66y",
-      "balanceAtomic": "186079777738"
+      "balanceAtomic": "198163837411"
     },
     {
       "wallet": "Rksu...ETt6",
-      "balanceAtomic": "417080000"
+      "balanceAtomic": "270965749351"
     }
   ],
   "recentEvents": [
-    {
-      "ts": "nov 28 12:47:16",
-      "msg": "[DISCONNECT] wallet=Rksu8kEiQCJe...A6ETt6 worker=x shares=631"
-    },
     {
       "ts": "nov 28 12:47:22",
       "msg": "[LOGIN] wallet=Rksu8kEiQCJe...A6ETt6 worker=x agent=\"XMRig/6.27.0 (Windows NT 10.0; Win64; x64) libuv/1.53.0 msvc/2026\" ip=redacted"
@@ -96,6 +92,10 @@
     {
       "ts": "nov 28 13:23:53",
       "msg": "[BLOCK] height=5732 hash=68f3...58da pow=0e6d...0000 finder=Rksu8kEiQCJe...A6ETt6"
+    },
+    {
+      "ts": "nov 28 13:33:21",
+      "msg": "[BLOCK] height=5733 hash=ee0c...c3f5 pow=530f...0000 finder=Rksu8kEiQCJe...A6ETt6"
     }
   ]
 }
